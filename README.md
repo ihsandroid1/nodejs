@@ -1,5 +1,5 @@
 # Belajar Node JS
-- tes port 3001
-- Tes Parameter Simple : 
-http://localhost:3001/katalog?kategori=pakaian&subkategori=kaos
+- Tes Penanganan Form
+- Method GET & POST yang sederhana
+- Tes port 3001
 - Kill Port : fuser -n tcp -k 3001 
